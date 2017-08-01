@@ -32,10 +32,10 @@
       <header>
         <nav class="website-nav">
           <ul>
-            <li><a class="home-link" href="https://aws.amazon.com/">Home</a></li>
-            <li><a href="https://aws.amazon.com/what-is-cloud-computing/">About</a></li>
-            <li><a href="https://aws.amazon.com/solutions/">Services</a></li>
-            <li><a href="https://aws.amazon.com/contact-us/">Contact</a></li>
+            <li><a class="home-link" href="http://kokam.com/">Home</a></li>
+            <li><a href="http://kokam.com/about-us/">About</a></li>
+            <li><a href="http://kokam.com/ess-3/">Services</a></li>
+            <li><a href="http://www.spaceworld.in/contact-us">Contact</a></li>
           </ul>
         </nav>
       </header>
@@ -45,8 +45,8 @@
               <img src="${tweetSvg}" alt="Tweet"/>
           </a>
         <div class="text">
-          <h1>Congratulations!</h1>
-          <h2>You just created a Java Spring web application.</h2>
+          <h1>Hello Space World!</h1>
+          <h2>You just created a Kokam Li-On battery view page.</h2>
         </div>
       </div>
     </div>
